@@ -1,0 +1,27 @@
+{
+  "name": "checkbuilty",
+  "description": "A project to beauty the default checkbox and radiobutton",
+  "main": "",
+  "authors": [
+    "seannell@outlook.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "checkbox",
+    "radio",
+    "beauty"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "magic-check": "^1.0.0"
+  }
+}

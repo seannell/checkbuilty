@@ -1,0 +1,21 @@
+{
+  "name": "checkbuilty",
+  "version": "1.0.0",
+  "description": "A project to beauty the default checkbox and radiobutton",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkbox",
+    "readio",
+    "beauty"
+  ],
+  "author": "seannell@outlook.com",
+  "license": "MIT"
+}
