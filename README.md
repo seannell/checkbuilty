@@ -1,0 +1,2 @@
+# checkbuilty
+模仿magic-check建立的工程，用于测试如何在webstorm上使用nodejs、bower和gulp搭建工程
